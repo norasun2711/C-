@@ -1,0 +1,6 @@
+D:\C# console code\Total strack\Total strack\bin\Debug\Total strack.exe.config
+D:\C# console code\Total strack\Total strack\bin\Debug\Total strack.exe
+D:\C# console code\Total strack\Total strack\bin\Debug\Total strack.pdb
+D:\C# console code\Total strack\Total strack\obj\Debug\Total strack.csprojResolveAssemblyReference.cache
+D:\C# console code\Total strack\Total strack\obj\Debug\Total strack.exe
+D:\C# console code\Total strack\Total strack\obj\Debug\Total strack.pdb
